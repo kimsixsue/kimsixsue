@@ -2,5 +2,4 @@
 
 [![kimsixsue's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimsixsue&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsixsue)](https://github.com/anuraghazra/github-readme-stats)
+[![kimsixsue's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kimsixsue)](https://github.com/anuraghazra/github-readme-stats)
