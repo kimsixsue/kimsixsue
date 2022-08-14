@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsixsue&layout=compact&card_width)](https://github.com/anuraghazra/github-readme-stats)
 
-[![kimsixsue's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@kimsixsue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/1feaa7a7-3e3f-4043-ba20-dfa710bbad96.svg)](https://wakatime.com/@1feaa7a7-3e3f-4043-ba20-dfa710bbad96)
