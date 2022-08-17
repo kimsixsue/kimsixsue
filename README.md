@@ -24,8 +24,9 @@
 2020-09
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white)
 
-</details>
+2020-06 [텍스트마이닝 기말보고서.pdf](./20_06_텍스트마이닝_기말보고서.pdf)
 
+</details>
 
 
 
