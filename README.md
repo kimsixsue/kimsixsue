@@ -5,7 +5,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
 </a>
 <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer"> ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)</a>
-<a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer"> ![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)</a>
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> ![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)</a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)</a>
 
 [![Solved.ac
