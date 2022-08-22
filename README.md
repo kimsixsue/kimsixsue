@@ -14,9 +14,10 @@
 <details>
 <summary>Out of Date</summary>
 
-2021-11 <a href="https://www.java.com/" target="_blank" rel="noreferrer">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)</a>
+2021-11 <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)</a> <a href="https://www.java.com/" target="_blank" rel="noreferrer">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)</a>
 
-2021-08 <a href="https://www.microsoft.com/microsoft-365/access" target="_blank" rel="noreferrer">![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?logo=microsoft-access&logoColor=white)</a> <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)</a>
+
+2021-08 <a href="https://www.microsoft.com/microsoft-365/access" target="_blank" rel="noreferrer">![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?logo=microsoft-access&logoColor=white)</a> <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)</a> <a href="https://www.microsoft.com/microsoft-365/powerpoint" target="_blank" rel="noreferrer">![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)</a>
 
 2020-12 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)</a> <a href="https://cloud.google.com/dialogflow" target="_blank" rel="noreeferrer">![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white)</a>
 
@@ -24,9 +25,13 @@
 
 2020-06 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)</a> [TextMining Project](./textmining_final_report.pdf)
 
+2019-02 <a href="https://www.microsoft.com/microsoft-365/word" target="_blank" rel="noreeferrer">![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)</a>
+
 2016-12 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)</a> <a href="https://www.notepad-plus-plus.org/" target="_blank" rel="noreferrer">![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2b%2b&logoColor=black)</a>
 
 2016-05 <a href="https://ko.wikipedia.org/wiki/구글%2B" target="_blank" rel="noreeferrer">![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?logo=wikipedia&logoColor=white)</a>
 
 </details>
+
+
