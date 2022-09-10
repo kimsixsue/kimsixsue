@@ -1,5 +1,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)</a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> ![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)</a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)</a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)</a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
