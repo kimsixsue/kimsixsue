@@ -28,7 +28,7 @@
 
 2019-12 [InformationSystemsAnalysis Project](./information_systems_analysis.pdf)
 
-2019-02 <a href="https://www.microsoft.com/microsoft-365/word" target="_blank" rel="noreeferrer">/![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)</a>
+2019-02 <a href="https://www.microsoft.com/microsoft-365/word" target="_blank" rel="noreeferrer">![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)</a>
 
 2016-12 <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)</a> <a href="https://www.notepad-plus-plus.org/" target="_blank" rel="noreferrer">![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepad%2b%2b&logoColor=black)</a>
@@ -37,4 +37,3 @@
 
 </details>
 
-/
