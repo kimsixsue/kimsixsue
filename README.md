@@ -22,9 +22,11 @@
 
 2020-12 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)</a> <a href="https://cloud.google.com/dialogflow" target="_blank" rel="noreeferrer">![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white)</a>
 
+2020-11 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black)</a>
+
 2020-09 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">![R](https://img.shields.io/badge/r-%23276DC3.svg?logo=r&logoColor=white)</a>
 
-2020-06 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)</a> [TextMining Project](./textmining_final_report.pdf)
+2020-06 [TextMining Project](./textmining_final_report.pdf) <a href="https://keras.io/" target="_blank" rel="noreferrer">![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)</a> <a href="https://numpy.org/" target="_blank" rel="noreferrer">![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white)</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white)</a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)</a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)</a> <a href="https://scipy.org/" target="_blank" rel="noreferrer">![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=%white)</a> <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">![Selenium](https://img.shields.io/badge/-selenium-%43B02A?logo=selenium&logoColor=white)</a> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)</a>
 
 2019-12 [InformationSystemsAnalysis Project](./information_systems_analysis.pdf)
 
