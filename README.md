@@ -4,6 +4,7 @@
 <a href="https://tc39.es/ecma262/multipage/" target="_blank" rel="noreferrer"> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 <a href="https://v2.vuejs.org/" target="_blank" rel="noreferrer"> ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)</a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)</a>
+<a href="https://nodejs.org/download/release/v16.18.1/" target="_blank" rel="noreferrer"> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)</a>
 <a href="https://eslint.org/" target="_blank" rel="noreferrer"> ![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)</a>
 <a href="https://pypi.org/project/Django/3.2.16/" target="_blank" rel="noreferrer"> ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray)
