@@ -1,28 +1,27 @@
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?\logo=sqlite&logoColor=white)
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white)</a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?\logo=sqlite&logoColor=white)
 <a href="https://www.python.org/downloads/release/python-3913/" target="_blank" rel="noreferrer"> ![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)</a>
 <a href="https://tc39.es/ecma262/multipage/" target="_blank" rel="noreferrer"> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)</a>
+<a href="https://www.w3.org/TR/css-2021/" target="_blank" rel="noreferrer"> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)</a>
+
+<a href="https://www.linkedin.com/in/kimsixsue/" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)</a> [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimsixsue)](https://solved.ac/kimsixsue)
+<details>
+<summary>etc.</summary>
+  
 <a href="https://v2.vuejs.org/" target="_blank" rel="noreferrer"> ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)</a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)</a>
 <a href="https://nodejs.org/download/release/v16.18.1/" target="_blank" rel="noreferrer"> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)</a>
 <a href="https://eslint.org/" target="_blank" rel="noreferrer"> ![ESLint](https://img.shields.io/badge/ESLint-4B3263?logo=eslint&logoColor=white)</a>
 <a href="https://pypi.org/project/Django/3.2.16/" target="_blank" rel="noreferrer"> ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray)
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)</a>
-<a href="https://www.w3.org/TR/css-2021/" target="_blank" rel="noreferrer"> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)</a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
 </a>
 
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kimsixsue)](https://solved.ac/kimsixsue) <a href="https://www.linkedin.com/in/kimsixsue/" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)</a>
-<a href="https://docs.gitlab.com/ee/development/gitlab_flavored_markd" target="_blank" rel="noreferrer"> ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)</a>
+<a href="https://github.github.com/gfm/" target="_blank" rel="noreferrer"> ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)</a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> ![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)</a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)</a>
-
-<details>
-<summary>Out of Date</summary>
-
+  
 2021-11 <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)</a> <a href="https://www.java.com/" target="_blank" rel="noreferrer">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)</a>
 
 
