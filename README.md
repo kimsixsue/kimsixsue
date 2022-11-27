@@ -9,6 +9,7 @@
 <details>
 <summary>etc.</summary>
   
+2022 <a href="https://www.ssafy.com/" target="_blank" rel="noreferrer">SSAFY</a>
 <a href="https://v2.vuejs.org/" target="_blank" rel="noreferrer"> ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)</a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)</a>
 <a href="https://nodejs.org/download/release/v16.18.1/" target="_blank" rel="noreferrer"> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)</a>
@@ -17,7 +18,6 @@
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"> ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray)
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
 </a>
-
 <a href="https://github.github.com/gfm/" target="_blank" rel="noreferrer"> ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white)</a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> ![PyCharm](https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)</a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)</a>
