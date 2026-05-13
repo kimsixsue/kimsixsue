@@ -4,29 +4,39 @@ PHP, MySQL/MariaDB, Linux 기반 서비스 운영·유지보수와 백엔드 기
 
 ## Tech Stack
 
-- Backend: PHP, Python, Django
-- Database: MySQL, MariaDB, SQL, SQLite
+- Backend: PHP, Python
+- Database: MySQL, MariaDB, SQL
 - Server/OS: Linux, Ubuntu, CentOS
 - Frontend: JavaScript, jQuery, Ajax, HTML5, CSS3, Bootstrap
 - Tools: Git, GitHub
 - API: REST API
 
-## Experience Summary
+## Experience
 
-### ㈜타오스
+### [㈜타오스](https://taos.kr/)
+2026.01 ~ Present  
+Backend Developer
+
 - AI 기반 EV 배터리 모니터링 솔루션 연구개발 과제 참여
 - 백엔드 서버 개발 및 데이터 처리 기능 구현
-- API 개발, 기능 개선, 오류 대응 및 기술 자료 조사
+- 서비스 운영을 위한 API 개발, 기능 개선 및 오류 대응
+- 기술 자료 조사 및 R&D 과제 문서 작성 지원
 
-### ㈜사랑넷
+### [㈜사랑넷](https://sarang.net/)
+2023.11 ~ 2025.07  
+Backend Developer
+
 - 스마트HACCP(SaaS 간편등급) 및 인트라넷 운영·유지보수
-- PHP 기반 백엔드 기능 개발 및 기존 기능 개선
+- PHP 기반 백엔드 기능 개발 및 기존 시스템 개선
 - MySQL/MariaDB 기반 데이터 조회, 수정 및 관리
 - Linux 서버 환경에서 서비스 운영 지원
 - JavaScript/jQuery/Ajax 기반 화면 기능 개선
 
-## Portfolio
+## Portfolio Reports
 
-- 텍스트마이닝 프로젝트 보고서
-- 정보시스템 분석 보고서
-- TIL 학습 기록
+- [텍스트마이닝 프로젝트 보고서](./textmining_final_report.pdf)
+- [정보시스템 분석 보고서](./information_systems_analysis.pdf)
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/kimsixsue/)
