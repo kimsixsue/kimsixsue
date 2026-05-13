@@ -37,7 +37,7 @@ Backend Developer
 - [텍스트마이닝 프로젝트 보고서](./textmining_final_report.pdf)  
   텍스트 데이터 분석 및 시각화 경험을 정리한 프로젝트 보고서입니다.
 
-- [정보시스템 분석 보고서 - 홈메이트 매칭 시스템](./information_systems_analysis.pdf)  
+- [정보시스템 분석 보고서 - 룸메이트 매칭 시스템](./information_systems_analysis.pdf)  
   요구사항 분석, 프로젝트 일정 계획, Context Diagram, ERD, 화면 설계, DB 설계 등을 포함한 정보시스템 분석 보고서입니다.
 
 ## Links
