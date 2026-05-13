@@ -34,8 +34,8 @@ Backend Developer
 
 ## Portfolio Reports
 
-- [텍스트마이닝 프로젝트 보고서](./textmining_final_report.pdf)  
-  텍스트 데이터 분석 및 시각화 경험을 정리한 프로젝트 보고서입니다.
+- [국민청원 데이터 텍스트마이닝 프로젝트 보고서](./textmining_final_report.pdf)  
+  국민청원 데이터를 수집·전처리하고 감성분석, 문서 클러스터링, 문서 분류, 토픽 모델링을 수행한 프로젝트 보고서입니다.
 
 - [정보시스템 분석 보고서 - 룸메이트 매칭 시스템](./information_systems_analysis.pdf)  
   요구사항 분석, 프로젝트 일정 계획, Context Diagram, ERD, 화면 설계, DB 설계 등을 포함한 정보시스템 분석 보고서입니다.
