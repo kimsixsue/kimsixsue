@@ -1,21 +1,22 @@
-# 김진욱 | AI·Data Platform Backend Developer
+# 김진욱 | Backend / Server Developer
 
-AI·데이터 기반 플랫폼에서 백엔드 서버 개발, REST API 개발, DB 연동, 데이터 처리 기능 구현을 수행하는 백엔드/서버 개발자입니다.
+PHP, MySQL/MariaDB, Linux 기반 웹서비스 운영·유지보수와 백엔드 기능 개발 경험을 보유한 개발자입니다.
 
-PHP, MySQL/MariaDB, Linux 기반 서비스 운영 경험을 바탕으로, 현재는 AI 기반 EV 배터리 모니터링 솔루션 R&D 과제에서 서버 개발, 데이터 조회·처리, API 기능 개발, 오류 대응, 기술 자료 조사 및 개발 문서 작성 업무를 수행하고 있습니다.
+스마트HACCP 및 인트라넷 서비스 운영 과정에서 PHP 기반 기능 개선, DB 조회·수정, Linux 서버 운영 지원, JavaScript/jQuery/Ajax 기반 화면 기능 개선을 수행했습니다.
 
-Python 기반 데이터 수집·전처리·텍스트마이닝 프로젝트 경험과 운영 서비스 백엔드 경험을 연결하여, AI·데이터 기반 서비스가 안정적으로 동작할 수 있는 서버와 데이터 흐름을 구현하는 개발자로 성장하고자 합니다.
+현재는 ㈜타오스에서 서버 개발, REST API 기능 개발, 데이터 조회·처리, 오류 대응, 기술자료 조사 및 개발 문서 작성 업무를 수행하고 있습니다.
+
+웹서비스 운영 경험과 API·DB·데이터 처리 경험을 바탕으로 안정적인 백엔드 시스템과 데이터 흐름을 구현하는 개발자로 성장하고자 합니다.
 
 ---
 
 ## Tech Stack
 
-- Backend: PHP, Python
-- Database: MySQL, MariaDB, SQL
-- Server/OS: Linux, Ubuntu, CentOS
+- Backend: PHP, Python, FastAPI
+- Database: MySQL, MariaDB, MongoDB, SQL
+- Server / Infra: Linux, Docker, Git
 - Frontend: JavaScript, jQuery, Ajax, HTML5, CSS3, Bootstrap
-- API: REST API
-- Tools: Git, GitHub
+- Data / AI: Python Data Processing, Text Mining, Basic ML/DL
 
 ---
 
