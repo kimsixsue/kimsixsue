@@ -1,22 +1,22 @@
 # 김진욱 | Backend / Server Developer
 
-PHP, MySQL/MariaDB, Linux 기반 웹서비스 운영·유지보수와 백엔드 기능 개발 경험을 보유한 개발자입니다.
+Python·FastAPI 기반 REST API 개발과 MongoDB 기반 데이터 조회·집계, MQTT 기반 수집 데이터 흐름 검증 경험을 보유한 백엔드/서버 개발자입니다.
 
-스마트HACCP 및 인트라넷 서비스 운영 과정에서 PHP 기반 기능 개선, DB 조회·수정, Linux 서버 운영 지원, JavaScript/jQuery/Ajax 기반 화면 기능 개선을 수행했습니다.
+현재 ㈜타오스에서 AI 기반 EV 배터리 모니터링 솔루션 R&D 과제에 참여하며 백엔드 서버 개발, REST API 기능 구현, 차량·센서·리포트 데이터 조회·처리, AI 분석 결과/예측 리포트 연동 검증, 운영 오류 대응 및 개발 문서 작성을 수행하고 있습니다.
 
-현재는 ㈜타오스에서 서버 개발, REST API 기능 개발, 데이터 조회·처리, 오류 대응, 기술자료 조사 및 개발 문서 작성 업무를 수행하고 있습니다.
+이전에는 ㈜사랑넷에서 스마트HACCP SaaS 서비스와 사내 인트라넷 운영·유지보수를 담당하며 PHP 기반 기능 수정, MySQL/MariaDB 데이터 관리, Linux 서버 운영 지원, JavaScript·jQuery·Ajax 기반 화면 기능 개선을 경험했습니다.
 
-웹서비스 운영 경험과 API·DB·데이터 처리 경험을 바탕으로 안정적인 백엔드 시스템과 데이터 흐름을 구현하는 개발자로 성장하고자 합니다.
+현재는 Python API 개발, 데이터 처리, DB 연동, Linux·Docker 기반 운영 대응 경험을 바탕으로 안정적인 백엔드 서비스와 데이터 흐름을 구현하는 개발자로 성장하고 있습니다.
 
 ---
 
 ## Tech Stack
 
-- Backend: PHP, Python, FastAPI
-- Database: MySQL, MariaDB, MongoDB, SQL
-- Server / Infra: Linux, Docker, Git
-- Frontend: JavaScript, jQuery, Ajax, HTML5, CSS3, Bootstrap
-- Data / AI: Python Data Processing, Text Mining, Basic ML/DL
+- Backend: Python, FastAPI, REST API, PHP
+- Database: MongoDB, SQL, MySQL, MariaDB
+- Data / Messaging: MQTT, WebSocket, Data Processing
+- Server / Infra: Linux, Docker, NGINX, Git
+- Frontend / Maintenance: JavaScript, jQuery, Ajax, HTML5, CSS3, Bootstrap
 
 ---
 
@@ -24,15 +24,16 @@ PHP, MySQL/MariaDB, Linux 기반 웹서비스 운영·유지보수와 백엔드 
 
 ### [㈜타오스](https://taos.kr/)  
 2026.01 ~ Present  
-Backend Developer
+Backend / Server Developer
 
-AI 기반 EV 배터리 모니터링 솔루션 연구개발 과제에 참여하며 백엔드 서버 개발과 데이터 처리 기능 개발을 수행하고 있습니다.
+AI 기반 EV 배터리 모니터링 솔루션 R&D 과제에 참여하며 Python·FastAPI 기반 백엔드 API 개발과 데이터 처리 기능을 담당하고 있습니다.
 
-- AI 기반 EV 배터리 모니터링 솔루션 연구개발 과제 참여
-- 백엔드 서버 개발 및 모니터링 데이터 조회·처리 기능 구현
-- 서비스 운영을 위한 REST API 개발, 기능 개선 및 오류 대응
-- 배터리/AI 모니터링 관련 기술 자료 조사 및 개발 문서 작성
-- 정부지원/R&D 과제 관련 문서 작성 및 업무 지원
+- Python·FastAPI 기반 REST API 기능 개발
+- MongoDB 기반 차량/센서/리포트 데이터 조회·집계 로직 개선
+- MQTT 기반 수집 데이터와 실시간 모니터링 화면 간 데이터 흐름 확인
+- AI 분석 결과/예측 리포트 데이터 연동 흐름 검증
+- Linux·Docker 환경에서 운영 이슈 확인, 기능 검증, 오류 재현
+- NGINX·HTTPS/SSL 등 운영 환경 관련 기술 문서 정리
 
 ### [㈜사랑넷](https://sarang.net/)  
 2023.11 ~ 2025.07  
