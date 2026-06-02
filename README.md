@@ -1,97 +1,153 @@
 # 김진욱 | Backend / Server Developer
 
-Python·FastAPI 기반 REST API 개발과 MongoDB 기반 데이터 조회·집계, MQTT 기반 수집 데이터 흐름 검증 경험을 보유한 백엔드/서버 개발자입니다.
+Python·FastAPI 기반 REST API 개발과 MongoDB 기반 데이터 조회·처리, MQTT 수집 데이터 흐름 확인 경험을 보유한 백엔드/서버 개발자입니다.
 
-현재 ㈜타오스에서 AI 기반 EV 배터리 모니터링 솔루션 R&D 과제에 참여하며 백엔드 서버 개발, REST API 기능 구현, 차량·센서·리포트 데이터 조회·처리, AI 분석 결과/예측 리포트 연동 검증, 운영 오류 대응 및 개발 문서 작성을 수행하고 있습니다.
+현재 ㈜타오스에서 AI 기반 EV 배터리 모니터링 솔루션 R&D 과제에 참여하며 API 구현, 차량·센서·리포트 데이터 조회, API 응답 데이터 처리, 수집 데이터와 모니터링 화면 간 데이터 흐름 확인, 운영 오류 재현, 개발 문서 작성을 수행하고 있습니다.
 
-이전에는 ㈜사랑넷에서 스마트HACCP SaaS 서비스와 사내 인트라넷 운영·유지보수를 담당하며 PHP 기반 기능 수정, MySQL/MariaDB 데이터 관리, Linux 서버 운영 지원, JavaScript·jQuery·Ajax 기반 화면 기능 개선을 경험했습니다.
+이전에는 ㈜사랑넷에서 스마트HACCP SaaS 서비스와 사내 인트라넷 운영·유지보수를 담당하며 PHP, MySQL/MariaDB, Linux 기반 서비스 운영 경험을 쌓았습니다.
 
-현재는 Python API 개발, 데이터 처리, DB 연동, Linux·Docker 기반 운영 대응 경험을 바탕으로 안정적인 백엔드 서비스와 데이터 흐름을 구현하는 개발자로 성장하고 있습니다.
-
----
-
-## Tech Stack
-
-- Backend: Python, FastAPI, REST API, PHP
-- Database: MongoDB, SQL, MySQL, MariaDB
-- Data / Messaging: MQTT, WebSocket, Data Processing
-- Server / Infra: Linux, Docker, NGINX, Git
-- Frontend / Maintenance: JavaScript, jQuery, Ajax, HTML5, CSS3, Bootstrap
+API, DB, 데이터 흐름, 운영 환경을 함께 이해하는 백엔드 개발자로 성장하고 있습니다.
 
 ---
 
-## Experience
+## Main Stack
 
-### [㈜타오스](https://taos.kr/)  
-2026.01 ~ Present  
+**Backend**
+Python · FastAPI · REST API · PHP
+
+**Database**
+MongoDB · SQL · MySQL · MariaDB
+
+**Infra / Operation**
+Linux · Docker · NGINX · HTTPS/SSL · Git
+
+**Data / Messaging**
+MQTT · Data Processing · API Response Data Handling
+
+**Frontend Maintenance**
+JavaScript · jQuery · Ajax · HTML · CSS · Bootstrap
+
+---
+
+## Portfolio
+
+### backend-experience
+
+회사 기밀을 제외하고 REST API 개발, DB 데이터 처리, 운영 이슈 대응, 문서화 경험을 정리한 백엔드 실무 포트폴리오입니다.
+
+* Python·FastAPI 기반 REST API 개발 경험
+* MongoDB 기반 차량·센서·리포트 데이터 조회·처리 경험
+* MQTT 수집 데이터와 모니터링 화면 간 데이터 흐름 확인 경험
+* Linux·Docker·NGINX 운영 환경 확인 및 오류 재현 경험
+* 개발 문서 및 인수인계 문서 작성 경험
+
+Repository: https://github.com/kimsixsue/backend-experience
+
+### 국민청원 데이터 텍스트마이닝 프로젝트
+
+Python 기반으로 국민청원 데이터를 수집·전처리하고 감성분석, 문서 분류, 문서 클러스터링, 토픽 모델링을 수행한 데이터 처리·분석 프로젝트입니다.
+
+### 룸메이트 매칭 시스템 정보시스템 분석 보고서
+
+요구사항 분석, 일정 계획, Context Diagram, ERD, 화면 설계, DB 설계를 수행한 정보시스템 분석 보고서입니다.
+
+---
+
+<details>
+<summary><strong>Experience</strong></summary>
+
+## ㈜타오스
+
 Backend / Server Developer
+2026.01 ~ Present
 
-AI 기반 EV 배터리 모니터링 솔루션 R&D 과제에 참여하며 Python·FastAPI 기반 백엔드 API 개발과 데이터 처리 기능을 담당하고 있습니다.
+AI 기반 EV 배터리 모니터링 솔루션 R&D 과제에서 Python·FastAPI 기반 백엔드 API 개발과 데이터 처리 기능을 담당하고 있습니다.
 
-- Python·FastAPI 기반 REST API 기능 개발
-- MongoDB 기반 차량/센서/리포트 데이터 조회·집계 로직 개선
-- MQTT 기반 수집 데이터와 실시간 모니터링 화면 간 데이터 흐름 확인
-- AI 분석 결과/예측 리포트 데이터 연동 흐름 검증
-- Linux·Docker 환경에서 운영 이슈 확인, 기능 검증, 오류 재현
-- NGINX·HTTPS/SSL 등 운영 환경 관련 기술 문서 정리
+* Python·FastAPI 기반 REST API 엔드포인트 구현 및 응답 데이터 처리
+* MongoDB 기반 차량·센서·리포트 데이터 조회·필터링·집계 로직 구현
+* MQTT 수집 데이터와 모니터링 화면 간 데이터 흐름 확인
+* AI 분석 결과 및 예측 리포트 데이터 연동 검증
+* API 응답 구조 확인, 데이터 불일치 원인 파악, 기능 검증 및 오류 재현
+* Linux·Docker 환경에서 운영 이슈 확인 및 서비스 상태 점검
+* NGINX·HTTPS/SSL 등 운영 환경 관련 기술 문서 정리
+* 서버·백엔드·DB·운영 구조에 대한 인수인계 문서 및 개발 문서 작성
 
-### [㈜사랑넷](https://sarang.net/)  
-2023.11 ~ 2025.07  
-Backend Developer
+## ㈜사랑넷
 
-스마트HACCP(SaaS 간편등급) 및 인트라넷 서비스의 운영·유지보수를 담당하며 PHP 기반 백엔드 기능 개발과 서비스 개선 업무를 수행했습니다.
+Backend / Server Developer
+2023.11 ~ 2025.07
 
-- 스마트HACCP(SaaS 간편등급) 및 인트라넷 운영·유지보수
-- PHP 기반 백엔드 기능 개발 및 기존 시스템 개선
-- MySQL/MariaDB 기반 데이터 조회, 수정 및 관리
-- Linux 서버 환경에서 서비스 운영 지원
-- JavaScript/jQuery/Ajax 기반 화면 기능 개선 및 오류 대응
-- HTML/CSS/Bootstrap 기반 관리자 페이지 및 서비스 화면 유지보수
+스마트HACCP SaaS 서비스와 사내 인트라넷 운영·유지보수를 담당했습니다.
 
----
+* PHP 기반 백엔드 기능 수정 및 오류 대응
+* MySQL/MariaDB 기반 데이터 조회·수정·관리
+* 스마트HACCP SaaS 서비스 및 사내 인트라넷 운영·유지보수
+* Linux 서버 환경에서 서비스 상태 확인 및 운영 이슈 대응
+* JavaScript·jQuery·Ajax 기반 관리자 화면 기능 개선 및 오류 수정
+* HTML·CSS·Bootstrap 기반 관리자 페이지 및 서비스 화면 유지보수
 
-## Portfolio Reports
-
-### [국민청원 데이터 텍스트마이닝 프로젝트 보고서](./textmining_final_report.pdf)
-
-국민청원 데이터를 수집·전처리하고 감성분석, 문서 클러스터링, 문서 분류, 토픽 모델링을 수행한 텍스트마이닝 프로젝트 보고서입니다.
-
-- Python 기반 데이터 수집 및 전처리
-- JSON 데이터 정리 및 텍스트 데이터 변환
-- 형태소 분석 및 인코딩/이모지 처리 문제 해결
-- 감성분석을 통한 청원 데이터의 긍·부정 경향 분석
-- 문서 클러스터링, 문서 분류, 토픽 모델링 수행
-
-### [정보시스템 분석 보고서 - 룸메이트 매칭 시스템](./information_systems_analysis.pdf)
-
-룸메이트 매칭 시스템을 주제로 요구사항 분석부터 DB 설계까지 수행한 정보시스템 분석 보고서입니다.
-
-- 요구사항 분석
-- 프로젝트 일정 계획
-- Context Diagram 작성
-- ERD 및 데이터베이스 설계
-- 화면 설계 및 시스템 구조 분석
+</details>
 
 ---
 
-## Education & Training
+<details>
+<summary><strong>Education & Training</strong></summary>
 
-- 연세대학교 문헌정보학과 졸업
-- 삼성 청년 SW 아카데미 1학기 코딩 집중과정 이수
-- 채용연계형 AI 개발자 양성 부트캠프 이수
+## 연세대학교
+
+문헌정보학과 학사
+2015.03 ~ 2021.08
+
+## 삼성 청년 SW 아카데미
+
+2022.07 ~ 2022.11
+
+* Django 기반 웹 애플리케이션 개발 및 REST API 설계·구현 실습
+* Python 서버사이드 로직 구현
+* 외부 API 연동 및 DB 조회·관리 경험
+* Vue.js 프론트엔드와 연동한 서버-클라이언트 통신 테스트·디버깅
+* 웹 서비스 구조, 관계형 DB 설계, API 요청·응답 흐름 학습
+* 800시간 코딩 집중과정 이수: Python, JavaScript, Django, Vue.js, SQL
+
+## 채용연계형 AI 개발자 양성 부트캠프
+
+2025.07 ~ 2025.10
+
+* Python 기반 데이터 수집·정제 스크립트 작성
+* 배치 처리 자동화 실습
+* 입력·출력 데이터 포맷 정의
+* 전처리 결과 검증 및 오류 데이터 디버깅
+* 데이터 수집·정제·저장·검증 흐름 구현
+
+</details>
 
 ---
 
-## Certifications
+<details>
+<summary><strong>Certifications</strong></summary>
 
-- 정보처리기사
-- ADsP 데이터분석준전문가
-- 정보처리산업기사
-- 프로그래밍기능사
-- 컴퓨터활용능력 1급
+* 정보처리기사
+* ADsP 데이터분석준전문가
+* 정보처리산업기사
+* 프로그래밍기능사
+* 정보기기운용기능사
+* 컴퓨터활용능력 1급
+* 사무자동화산업기사
+* 워드프로세서
+
+</details>
 
 ---
 
-## Links
+## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/kimsixsue/)
+* LinkedIn: https://www.linkedin.com/in/kimsixsue/
+* GitHub: https://github.com/kimsixsue
+
+---
+
+## Note
+
+본 프로필과 포트폴리오는 외부 공개 가능한 범위에서 작성했습니다.
+
+회사 내부 소스코드, API 명세, 데이터베이스 구조, 서버 정보, 계정 정보, 고객 정보, 기밀 자료는 포함하지 않았습니다.
