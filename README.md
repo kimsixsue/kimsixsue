@@ -6,7 +6,7 @@ Python·FastAPI 기반 REST API 개발, MongoDB 기반 데이터 조회·처리,
 
 이전에는 ㈜사랑넷에서 스마트HACCP SaaS 서비스와 사내 인트라넷 운영·유지보수를 담당하며 PHP, MySQL/MariaDB, Linux 기반 서비스 운영 경험을 쌓았습니다.
 
-API, DB, 데이터 흐름, 모니터링, 운영 환경을 함께 이해하는 백엔드 개발자로 성장하고 있습니다.
+API, DB, 데이터 흐름, 모니터링, 운영 환경을 함께 이해하는 백엔드 개발자로 성장하고 있습니다. 현재 Python·FastAPI 기반 API 개발 경험을 바탕으로 Java/Spring Boot 기반 백엔드 API 구조도 함께 학습하며 확장하고 있습니다.
 
 ---
 
@@ -20,6 +20,13 @@ API, DB, 데이터 흐름, 모니터링, 운영 환경을 함께 이해하는 �
 | Monitoring           | Web/API Health Check · Service Status Check · Alert Flow |
 | Infra / Operation    | Linux · Docker · NGINX · HTTPS/SSL · Git                 |
 | Frontend Maintenance | JavaScript · jQuery · Ajax · HTML · CSS · Bootstrap      |
+
+---
+
+## Learning / Expansion
+
+* Python·FastAPI 기반 API 개발 경험을 바탕으로 Java/Spring Boot 기반 백엔드 API 구조를 함께 학습하고 있습니다.
+* REST API, DB 연동, 운영 환경 이해를 기반으로 다양한 백엔드 기술 환경에 빠르게 적응하는 것을 목표로 하고 있습니다.
 
 ---
 
@@ -163,4 +170,4 @@ Backend / Server Developer
 
 본 프로필과 포트폴리오는 외부 공개 가능한 범위에서 작성했습니다.
 
-회사 내부 소스코드, 실제 API 명세, 데이터베이스 구조 원문, 서버 정보, 계정 정보, 고객 정보, 운영 문서 원문, 기밀 자료는 포함하지 않았습니다.
+회사 내부 소스코드, 실제 API 명세, 데이터베이스 구조 원문, 서버 정보, 계정 정보, 고객 정보, 운영문서 원문, 기밀 자료는 포함하지 않았습니다.
