@@ -1,25 +1,25 @@
-# 김진욱 | Python·FastAPI Backend Developer
+# 김진욱 | PHP·Python Backend Developer
 
-Python·FastAPI 기반 REST API 개발, MongoDB 기반 데이터 조회·처리, MQTT 수집 데이터 흐름 검증, 웹/API 헬스체크 모니터링 운영 경험을 보유한 백엔드/서버 개발자입니다.
+PHP·MySQL/MariaDB·Linux 기반 웹서비스 운영·유지보수 경험과 Python·FastAPI 기반 REST API 개발 경험을 함께 보유한 백엔드/서버 개발자입니다.
 
-현재 ㈜타오스에서 AI 기반 EV 배터리 모니터링 솔루션 R&D 과제에 참여하며 FastAPI 기반 REST API 구현, 차량·센서·리포트 데이터 조회·처리, MQTT 수집 데이터 흐름 검증, Python 기반 웹/API 헬스체크 모니터링, 운영 오류 재현, 기술·운영문서 작성을 수행하고 있습니다.
+이전에는 ㈜사랑넷에서 스마트HACCP SaaS 서비스와 사내 인트라넷 운영·유지보수를 담당하며 PHP 기반 기능 수정, MySQL/MariaDB 데이터 조회·수정·관리, Linux 서버 환경 서비스 상태 확인, JavaScript·jQuery·Ajax 기반 관리자 화면 오류 대응을 수행했습니다.
 
-이전에는 ㈜사랑넷에서 스마트HACCP SaaS 서비스와 사내 인트라넷 운영·유지보수를 담당하며 PHP, MySQL/MariaDB, Linux 기반 서비스 운영 경험을 쌓았습니다.
+현재는 ㈜타오스에서 AI 기반 EV 배터리 모니터링 솔루션 R&D 과제에 참여하며 Python·FastAPI 기반 REST API 구현, MongoDB 기반 차량·센서·리포트 데이터 조회·처리, MQTT 수집 데이터 흐름 검증, 웹/API 헬스체크 모니터링, Linux·Docker·NGINX 환경 운영 이슈 재현 및 기술·운영문서 작성을 수행하고 있습니다.
 
-API, DB, 데이터 흐름, 모니터링, 운영 환경을 함께 이해하는 백엔드 개발자로 성장하고 있습니다. Python·FastAPI 기반 API 개발 경험을 바탕으로 데이터 연동·처리, IoT·모니터링 플랫폼, AI 서비스 백엔드 업무 역량을 확장하고 있습니다.
+API, DB, 데이터 흐름, 웹서비스 운영, 모니터링, 운영 환경을 함께 이해하는 백엔드 개발자로 성장하고 있습니다.
 
 ---
 
 ## Main Stack
 
-| Area               | Stack                                                     |
-| ------------------ | --------------------------------------------------------- |
-| Backend            | Python · FastAPI · REST API                               |
-| Database           | MongoDB · SQL · MySQL · MariaDB                           |
-| Data / Messaging   | MQTT · Data Processing · API Response Data Handling       |
-| Monitoring         | Web/API Health Check · Service Status Check · Alert Flow  |
-| Infra / Operation  | Linux · Docker · NGINX · HTTPS/SSL · Git                  |
-| Previous Web Stack | PHP · JavaScript · jQuery · Ajax · HTML · CSS · Bootstrap |
+| Area              | Stack                                                    |
+| ----------------- | -------------------------------------------------------- |
+| Backend           | PHP · Python · FastAPI · REST API                        |
+| Database          | MySQL · MariaDB · SQL · MongoDB                          |
+| Web Maintenance   | JavaScript · jQuery · Ajax · HTML · CSS · Bootstrap      |
+| Infra / Operation | Linux · Docker · NGINX · HTTPS/SSL · Git                 |
+| Monitoring        | Web/API Health Check · Service Status Check · Alert Flow |
+| Data / Messaging  | MQTT · Data Processing · API Response Data Handling      |
 
 ---
 
@@ -34,8 +34,9 @@ API, DB, 데이터 흐름, 모니터링, 운영 환경을 함께 이해하는 �
 
 ### backend-experience
 
-회사 기밀을 제외하고 REST API 개발, DB 데이터 처리, 운영 이슈 대응, 모니터링 운영, 문서화 경험을 정리한 백엔드 실무 포트폴리오입니다.
+회사 기밀을 제외하고 PHP 웹서비스 운영·유지보수, REST API 개발, DB 연동·데이터 처리, 운영 이슈 대응, 모니터링 운영, 문서화 경험을 정리한 백엔드 실무 포트폴리오입니다.
 
+* PHP 웹서비스 운영·유지보수 경험
 * Python·FastAPI 기반 REST API 개발 경험
 * MongoDB 기반 차량·센서·리포트 데이터 조회·처리 경험
 * MQTT 수집 데이터, DB 저장 데이터, API 응답, 화면 표시값 간 데이터 흐름 확인 경험
@@ -111,6 +112,7 @@ Backend / Server Developer
 * MySQL/MariaDB 데이터 조회·수정·관리 및 운영 데이터 확인
 * Linux 서버 환경에서 서비스 상태 확인 및 운영 이슈 대응
 * 관리자 화면 표시값, DB 데이터, PHP 백엔드 처리 결과 비교 및 오류 원인 확인
+* JavaScript·jQuery·Ajax 기반 관리자 화면 기능 개선 및 오류 수정
 
 ---
 
