@@ -26,7 +26,7 @@ API, DB, 데이터 흐름, 웹서비스 운영, 모니터링, 운영 환경을 �
 ## Learning / Expansion
 
 * REST API, DB 연동, 데이터 처리, 운영 환경 이해를 기반으로 다양한 백엔드 기술 환경에 빠르게 적응하는 것을 목표로 하고 있습니다.
-* Python·FastAPI, MongoDB, MQTT, Linux·Docker 기반 백엔드 운영 경험을 계속 정리하고 있습니다.
+* PHP 웹서비스 운영·유지보수 경험과 Python·FastAPI, MongoDB, Linux·Docker 기반 백엔드 운영 경험을 계속 정리하고 있습니다.
 
 ---
 
