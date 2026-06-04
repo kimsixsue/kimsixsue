@@ -1,4 +1,4 @@
-# 김진욱 | Backend / Server Developer
+# 김진욱 | Python·FastAPI Backend Developer
 
 Python·FastAPI 기반 REST API 개발, MongoDB 기반 데이터 조회·처리, MQTT 수집 데이터 흐름 검증, 웹/API 헬스체크 모니터링 운영 경험을 보유한 백엔드/서버 개발자입니다.
 
@@ -12,14 +12,14 @@ API, DB, 데이터 흐름, 모니터링, 운영 환경을 함께 이해하는 �
 
 ## Main Stack
 
-| Area                 | Stack                                                    |
-| -------------------- | -------------------------------------------------------- |
-| Backend              | Python · FastAPI · REST API · PHP                        |
-| Database             | MongoDB · SQL · MySQL · MariaDB                          |
-| Data / Messaging     | MQTT · Data Processing · API Response Data Handling      |
-| Monitoring           | Web/API Health Check · Service Status Check · Alert Flow |
-| Infra / Operation    | Linux · Docker · NGINX · HTTPS/SSL · Git                 |
-| Frontend Maintenance | JavaScript · jQuery · Ajax · HTML · CSS · Bootstrap      |
+| Area               | Stack                                                     |
+| ------------------ | --------------------------------------------------------- |
+| Backend            | Python · FastAPI · REST API                               |
+| Database           | MongoDB · SQL · MySQL · MariaDB                           |
+| Data / Messaging   | MQTT · Data Processing · API Response Data Handling       |
+| Monitoring         | Web/API Health Check · Service Status Check · Alert Flow  |
+| Infra / Operation  | Linux · Docker · NGINX · HTTPS/SSL · Git                  |
+| Previous Web Stack | PHP · JavaScript · jQuery · Ajax · HTML · CSS · Bootstrap |
 
 ---
 
@@ -39,6 +39,7 @@ API, DB, 데이터 흐름, 모니터링, 운영 환경을 함께 이해하는 �
 * Python·FastAPI 기반 REST API 개발 경험
 * MongoDB 기반 차량·센서·리포트 데이터 조회·처리 경험
 * MQTT 수집 데이터, DB 저장 데이터, API 응답, 화면 표시값 간 데이터 흐름 확인 경험
+* AI 분석·예측 리포트 연동값 누락·불일치 확인 및 API 응답 구조 개선 경험
 * Python 기반 웹/API 헬스체크 모니터링 운영 경험
 * Linux·Docker·NGINX 운영 환경 확인 및 오류 재현 경험
 * 기술 문서, 운영 참고 문서, 인수인계 문서 작성 경험
