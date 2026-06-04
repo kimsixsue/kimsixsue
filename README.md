@@ -91,8 +91,8 @@ AI 기반 EV 배터리 모니터링 솔루션 R&D 과제에서 Python·FastAPI �
 * Python·FastAPI 기반 REST API 엔드포인트 구현 및 응답 구조 정리
 * MongoDB 기반 차량·센서·리포트 데이터 조회·필터링·집계 로직 구현
 * MQTT 수집 데이터, DB 저장 데이터, API 응답, 화면 표시값 대조 및 불일치 원인 확인
+* AI 분석·예측 리포트 연동값 누락·불일치 확인 및 API 응답 구조 개선
 * Python 기반 웹/API 헬스체크 모니터링 프로세스 운영 및 장애 알림·정기 리포트 흐름 관리
-* AI 분석·예측 리포트 연동값 누락·불일치 확인 및 API 응답 구조 개선 지원
 * Linux·Docker·NGINX 환경 API 오류·데이터 불일치·운영 이슈 재현
 * HTTPS/SSL, NGINX 운영 설정 확인 및 Git 기반 인수인계·운영문서·기술자료 정리
 
