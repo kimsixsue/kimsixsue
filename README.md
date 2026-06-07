@@ -1,4 +1,4 @@
-# 김진욱 | PHP·Python Backend Developer
+# 김진욱 | PHP·Python 백엔드 개발자
 
 PHP·MySQL/MariaDB·Linux 기반 웹서비스 운영·유지보수 경험과 Python·FastAPI 기반 REST API 개발 경험을 함께 보유한 백엔드/서버 개발자입니다.
 
@@ -53,7 +53,7 @@ Repository: https://github.com/kimsixsue/backend-experience
 
 대학교·공공기관 부속 홈페이지 운영을 가정한 PHP·MySQL 기반 통합관리 CMS 개인 프로젝트입니다.
 
-요구사항정의서, DB 설계 초안, 화면목록을 먼저 정리하고, 여러 부속 홈페이지를 하나의 관리자 시스템에서 관리하는 구조를 설계했습니다.
+요구사항정의서, DB 설계 초안, 화면목록, 개발기록을 먼저 정리하고, 여러 부속 홈페이지를 하나의 관리자 시스템에서 관리하는 구조를 설계했습니다.
 
 * 관리자 로그인/로그아웃
 * 관리자 역할관리
