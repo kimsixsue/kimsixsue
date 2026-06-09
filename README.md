@@ -53,7 +53,7 @@ Repository: https://github.com/kimsixsue/backend-experience
 
 대학교·공공기관 부속 홈페이지 운영을 가정한 PHP·MySQL 기반 통합관리 CMS 개인 프로젝트입니다.
 
-요구사항정의서, DB 설계 초안, 화면목록, 개발기록을 먼저 정리하고, Docker Compose 개발환경과 관리자 인증 기능부터 구현하고 있습니다.
+요구사항정의서, DB 설계 초안, 화면목록, 개발기록을 먼저 정리하고, Docker Compose 개발환경, 관리자 인증, 역할 기반 접근 제한, 관리자 작업 로그 기능을 단계적으로 구현하고 있습니다.
 
 * Docker Compose 기반 PHP 8.3 · MySQL 8.4 개발환경 구성
 * PDO 기반 DB 연결
@@ -61,6 +61,8 @@ Repository: https://github.com/kimsixsue/backend-experience
 * password_hash / password_verify 기반 비밀번호 검증
 * 세션 기반 관리자 로그인 처리
 * 관리자 역할 기반 접근 제한 기초 구현
+* 관리자 작업 로그 테이블 및 저장 모델 구현
+* 로그인 성공/실패, 로그아웃, 역할 제한 실패 로그 기록
 * 향후 사이트/메뉴/페이지/게시판 관리 기능 확장 예정
 
 Repository: https://github.com/kimsixsue/university-cms-php
