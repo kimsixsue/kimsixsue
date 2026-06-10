@@ -67,6 +67,7 @@ Repository: https://github.com/kimsixsue/backend-experience
 * 사이트 등록/수정 입력값 검증 및 중복 사이트 코드 처리
 * 사이트 사용 중지/사용 재개 처리
 * 사이트 등록/수정/사용 중지/사용 재개 로그 기록
+* 로컬 실행 방법 및 개발 기록 문서화
 * 향후 메뉴/페이지/게시판 관리 기능 확장 예정
 
 Repository: https://github.com/kimsixsue/university-cms-php
