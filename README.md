@@ -171,6 +171,7 @@ Backend / Server Developer
 
 ## Certifications
 
+* 2급 정사서
 * 정보처리기사
 * 정보처리산업기사
 * ADsP 데이터분석준전문가
