@@ -1,12 +1,12 @@
 # 김진욱 | PHP·Python Backend Developer
 
-PHP·MySQL/MariaDB 기반 웹서비스 운영·유지보수 경험과 Python·FastAPI 기반 REST API·데이터 처리 경험을 함께 보유한 백엔드 개발자입니다.
+PHP·MySQL/MariaDB 기반 운영 웹서비스 유지보수 경험과 Python·FastAPI 기반 REST API·데이터 처리 경험을 함께 보유한 백엔드 개발자입니다.
 
 ㈜사랑넷에서는 스마트HACCP SaaS와 사내 인트라넷을 운영·유지보수하며 PHP 기능 수정, MySQL/MariaDB 데이터 관리, Linux 서버 상태 확인, JavaScript·jQuery·Ajax 기반 관리자 화면 오류 대응을 수행했습니다.
 
-현재 ㈜타오스에서는 AI 기반 EV 배터리 모니터링 솔루션 R&D 과제에서 Python·FastAPI API 구현, MongoDB 시계열 데이터 조회·집계, MQTT 수집 데이터 흐름 검증, AI 분석·예측 리포트 연동값 확인, Linux·Docker·NGINX 운영 이슈 재현 및 문서화를 담당하고 있습니다.
+현재 ㈜타오스에서는 AI 기반 EV 배터리 모니터링 솔루션 R&D 과제에서 Python·FastAPI API 구현, MongoDB 시계열 데이터 조회·집계, MQTT 수집 데이터 흐름 검증, AI 분석·예측 리포트 연동값 확인, Linux·Docker·NGINX 운영 환경 확인 및 문서화를 담당하고 있습니다.
 
-API, DB, 데이터 흐름, 운영 환경을 함께 이해하는 백엔드 개발자로 성장하고 있습니다.
+운영 중인 서비스의 화면, API, DB, 수집 데이터, 서버 환경을 함께 확인하며 문제를 재현하고 개선하는 백엔드 개발자로 성장하고 있습니다.
 
 ---
 
@@ -18,7 +18,7 @@ API, DB, 데이터 흐름, 운영 환경을 함께 이해하는 백엔드 개발
 | Database          | MySQL · MariaDB · SQL · MongoDB                     |
 | Web Maintenance   | JavaScript · jQuery · Ajax · HTML · CSS · Bootstrap |
 | Infra / Operation | Linux · Docker · NGINX · HTTPS/SSL · Git            |
-| Data / Messaging  | MQTT · Data Processing · API Response Handling      |
+| Data Flow         | MQTT · API Response · Data Validation               |
 | Monitoring        | Web/API Health Check · Service Status Check         |
 
 ---
@@ -29,13 +29,15 @@ API, DB, 데이터 흐름, 운영 환경을 함께 이해하는 백엔드 개발
 
 대학교·공공기관 부속 홈페이지 운영을 가정한 PHP·MySQL 기반 통합관리 CMS 개인 프로젝트입니다.
 
-요구사항정의서와 DB 설계 초안을 먼저 작성하고, 관리자 로그인, 역할 기반 접근 제한, 사이트 관리, 메뉴 관리, 관리자 작업 로그 기록 등 웹에이전시/SI 환경에서 자주 요구되는 CMS 관리 기능을 직접 구현하고 있습니다.
+Docker Compose 기반 PHP 8.3·MySQL 8.4 개발환경을 구성하고, PDO 기반 DB 연결, 관리자 로그인, 세션 인증, 역할 기반 접근 제한, 사이트 관리, 메뉴 관리, 관리자 작업 로그 기록 기능을 구현했습니다.
+
+요구사항정의서, DB 설계, 화면목록, 개발기록을 함께 정리해 단순 게시판이 아니라 웹에이전시/SI 환경의 유지보수형 CMS 구축 흐름을 보여주는 포트폴리오로 관리하고 있습니다.
 
 Repository: [university-cms-php](https://github.com/kimsixsue/university-cms-php)
 
 ### backend-experience
 
-회사 기밀을 제외하고 PHP 웹서비스 운영·유지보수, REST API 개발, DB 연동·데이터 처리, 운영 이슈 대응, 모니터링 운영, 문서화 경험을 정리한 백엔드 실무 포트폴리오입니다.
+회사 기밀을 제외하고 PHP 웹서비스 운영·유지보수, Python·FastAPI REST API 개발, DB 연동·데이터 처리, 웹/API 헬스체크 모니터링, Linux·Docker·NGINX 운영 이슈 대응 경험을 정리한 백엔드 실무 포트폴리오입니다.
 
 Repository: [backend-experience](https://github.com/kimsixsue/backend-experience)
 
