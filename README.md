@@ -25,6 +25,14 @@ PHP·MySQL/MariaDB 기반 운영 웹서비스 유지보수 경험과 Python·Fas
 
 ## Featured Portfolio
 
+### national-bibliography-lod-poc
+
+국립중앙도서관 국가서지 LOD의 RDF 데이터 모델을 탐색하고, SPARQL과 Python을 활용해 도서·제목·저자·키워드 데이터를 조회·집계한 개인 프로젝트입니다.
+
+공개 SPARQL Endpoint의 timeout을 확인한 뒤 서브쿼리로 대상 집합을 제한해 집계 질의를 개선하고, 쿼리·CSV 결과·실행 로그를 함께 정리했습니다.
+
+Repository: [national-bibliography-lod-poc](https://github.com/kimsixsue/national-bibliography-lod-poc)
+
 ### university-cms-php
 
 대학교·공공기관 부속 홈페이지 운영을 가정한 PHP·MySQL 기반 통합관리 CMS 개인 프로젝트입니다.
