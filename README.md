@@ -67,7 +67,7 @@ Backend / Server Developer
 ### ㈜사랑넷
 
 Backend / Server Developer
-2023.11 ~ 2025.07
+2023.11 ~ 2025.06
 
 * 스마트HACCP SaaS 및 사내 인트라넷 운영·유지보수
 * PHP 기반 운영 서비스 기능 수정 및 백엔드 오류 대응
