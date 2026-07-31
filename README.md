@@ -2,7 +2,7 @@
 
 Python·FastAPI 기반 API 개발, MongoDB 데이터 조회·집계, MQTT 수집 데이터 흐름 검증 경험을 보유한 백엔드 개발자입니다.
 
-현재 ㈜타오스에서 AI 기반 EV 배터리 모니터링 솔루션 R&D 과제에 참여하며 Python·FastAPI API 구현, MongoDB 시계열 데이터 조회·집계, MQTT 수집 데이터 흐름 검증, AI 분석·예측 리포트 연동값 확인, Linux·Docker·NGINX 운영 환경 확인 및 문서화를 수행하고 있습니다.
+㈜타오스에서 AI 기반 EV 배터리 모니터링 솔루션 R&D 과제에 참여하며 Python·FastAPI API 구현, MongoDB 시계열 데이터 조회·집계, MQTT 수집 데이터 흐름 검증, AI 분석·예측 리포트 연동값 확인, Linux·Docker·NGINX 운영 환경 확인 및 문서화를 수행했습니다.
 
 이전에는 ㈜사랑넷에서 스마트HACCP SaaS와 사내 인트라넷을 운영·유지보수하며 PHP 기능 수정, MySQL/MariaDB 데이터 관리, Linux 서버 상태 확인, JavaScript·jQuery·Ajax 기반 관리자 화면 오류 대응을 수행했습니다.
 
@@ -64,7 +64,7 @@ Repository: [TIL](https://github.com/kimsixsue/TIL)
 ### ㈜타오스
 
 Backend / Server Developer  
-2026.01 ~ Present
+2026.01 ~ 2026.07
 
 * Python·FastAPI 기반 REST API 엔드포인트 구현 및 응답 구조 정리
 * MongoDB 기반 차량·센서·리포트 데이터 조회·필터링·집계 로직 구현
